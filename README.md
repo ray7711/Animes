@@ -1,5 +1,3 @@
-## **README.md Descontraído para sua Aplicação de Animes**
-
 ### **Mergulhe no Mundo dos Animes com Facilidade!**
 
 **O que essa aplicação faz?**
